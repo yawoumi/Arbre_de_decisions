@@ -1,5 +1,4 @@
 # Arbre_de_decisions
-# EntretienPolytech
 
 ## Contexte du projet
 
